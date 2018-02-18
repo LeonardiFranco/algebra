@@ -5,19 +5,19 @@ la UTN FRCU del año 2017.
 
 ## Unidad 1: Matrices
 
-- Matrices
+- [ ] Matrices
   - Definición
   - Nociones generales
   - Igualdad
-- Operaciones
+- [ ] Operaciones
   - Suma
   - Multiplicación por escalar
   - Propiedades
-- Combinacion lineal de matrices
-- Multiplicacion de matrices
-- Potenciacion, transposicion
+- [ ] Combinacion lineal de matrices
+- [ ] Multiplicacion de matrices
+- [ ] Potenciacion, transposicion
   - Propiedades
-- Matrices especiales o particulares
+- [ ] Matrices especiales o particulares
   - Matriz cuadrada
   - Matriz triangular superior
   - Matriz triangular inferior
@@ -32,8 +32,8 @@ la UTN FRCU del año 2017.
   - Matriz nula
   - Matriz opuesta
   - Matriz fila/columna
-- Propiedades de las inversas
-- Operaciones elementales
-- Matrices elementales
-- Inversion de matrices c/ matrices elementales
-- Rango de una matriz
+- [ ] Propiedades de las inversas
+- [ ] Operaciones elementales
+- [ ] Matrices elementales
+- [ ] Inversion de matrices c/ matrices elementales
+- [ ] Rango de una matriz
